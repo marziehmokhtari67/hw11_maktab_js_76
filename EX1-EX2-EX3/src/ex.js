@@ -1,5 +1,5 @@
 /// EX1
-// setting the color rows of table
+// /setting the color rows of table
 //  first row
 let primary  = document.getElementById("primary")
 primary.setAttribute("class","text-center  bg-blue-300 border-b  border-b-blue-400")
